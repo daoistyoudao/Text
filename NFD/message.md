@@ -1,5 +1,3 @@
-说明：
+This bot will forward your messages to bot owner.
 
-- 原消息发送者给bot发消息，会被转发给用户
-- 用户回复普通文字给转发的消息时，会回复到原消息发送者
-- 用户回复 `/block` ,  `/unblock` ,  `/checkblock` 等命令会执行相关指令，不会回复到原消息发送者
+Bot owner commands: /block /unblock /checkblock
