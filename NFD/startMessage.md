@@ -1,1 +1,2 @@
-This bot will forward your messages to bot owner.
+This bot will forward others' messages to bot owner.
+Bot owner reply to the messages to communicate.
